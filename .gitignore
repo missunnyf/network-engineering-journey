@@ -1,0 +1,13 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+*.swp
+
+# VM/large files (don't commit these — keep repo lightweight)
+*.ova
+*.vdi
+*.vmdk
+*.iso
